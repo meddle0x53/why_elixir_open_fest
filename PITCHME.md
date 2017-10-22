@@ -353,21 +353,6 @@ send pid, {:howdy, "Как си?"}
 ```
 
 #HSLIDE
-### Процеси + състояние:
-
-```elixir
-def main_loop(state) do
-  new_state =
-    receive do
-      some_transforming_msg -> transform(state)
-      anything_else -> state
-    end
-
-  main_loop(new_state)
-end
-```
-
-#HSLIDE
 Друго си е shared state, threads and locks!
 
 ![Image-Absolute](assets/suffer.jpg)
