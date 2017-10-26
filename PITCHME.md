@@ -442,7 +442,7 @@ send pid, {:howdy, "Как си?"}
 ![Image-Absolute](assets/explore.png)
 
 #HSLIDE
-### Има и още неща за които си говорим!
+### Има и още неща за които да си говорим!
 
 ![Image-Absolute](assets/distribution.jpg)
 
