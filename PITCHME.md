@@ -136,14 +136,6 @@
 ![Image-Absolute](assets/all.jpg)
 
 #HSLIDE
-### Actor модела
-
-* Erlang не е повлиян от и не имплементира Actor модела. <!-- .element: class="fragment" -->
-* Процесите на Erlang и актьорите имат общ предшественик - комуникацията между обекти със съобщения.   <!-- .element: class="fragment" -->
-* Доста от идеите за Актьорите намират своят път в процесите на Erlang независимо от Actor модела.  <!-- .element: class="fragment" -->
-* Вътрешността на един процес няма нищо общо с Actor модела.  <!-- .element: class="fragment" -->
-
-#HSLIDE
 Joe Armstrong нарича Erlang език за конкурентно-ориентирано програмиране, като се базира на няколко правила:
 
 #HSLIDE
