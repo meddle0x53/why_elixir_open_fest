@@ -171,10 +171,6 @@ Joe Armstrong нарича Erlang език за конкурентно-орие�
 ![Image-Absolute](assets/let_it_crash.jpg)
 
 #HSLIDE
-### Why Erlang?
-![Image-Absolute](assets/RabbitMQ.jpg)
-
-#HSLIDE
 ### Добре? A Elixir??
 
 * Elixir наследява всички тези специфики и идеологии. Все пак върви на BEAM. <!-- .element: class="fragment" -->
